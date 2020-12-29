@@ -25,7 +25,7 @@ Polynomial Regression
 Linear Regression
 Support Vector Regression
 
-## Detail of the code are the following 
+## Details of the code are the following 
 
 [Source Code](https://github.com/selenalee123/Polynomial-Regression/blob/master/Polynomial%20Regression.ipynb)
 
