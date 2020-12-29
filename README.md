@@ -51,6 +51,8 @@ Predicting the output.
 Linear Regression prediction with the salary 330,378.78. 
 Polynomial Regression with the salary of 158,862.45. 
 ![](poly.png)
+
+
 ![](linear regression.png)
 
 ## Conclusion
