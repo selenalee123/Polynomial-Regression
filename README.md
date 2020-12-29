@@ -8,12 +8,12 @@ The candidate has told his previous salary 160K per annum, and the HR have to ch
 
 ![](salary.png)
 
-Question : "Should we use the linear regression or polynomial to predict the salary ?"
+Question : "Should we use the linear regression or polynomial to predict the salary" 
 
 ## Methods Used
 Machine Learning
 Python
-Polynomial Regression
+Polynomial Regression 
 Linear Regression
 Support Vector Regression
 
@@ -21,18 +21,22 @@ Support Vector Regression
 **Raw Dataset **: "Salary.tsv"
 
 ## Data processing/transformation and  Model training technique
-Polynomial Regression
+Polynomial Regression 
 Linear Regression
 Support Vector Regression
+
+## Detail of the code are the following 
+
+[Source Code](https://github.com/selenalee123/Polynomial-Regression/blob/master/Polynomial%20Regression.ipynb)
 
 ## The need of Polynomial Regression in ML
 
 If we apply a linear model on a linear dataset, then it provides us a good result as we have seen in Simple Linear Regression, but if we apply the same model without any modification on a non-linear dataset. Due to the loss function will increase, the error rate will be high, and accuracy will be decreased.
-So for such cases, where data points are arranged in a non-linear fashion, we need the Polynomial Regression model.
+So for such cases, where data points are arranged in a non-linear fashion, we need the Polynomial Regression model. 
 
 Simple visualization of the Polynomial and Simple Linear Regression
 ![](different between polynomial and SVR.png)
-
+ 
 
 # ML Polynomial Regression
 In the above image, we have taken a dataset which is arranged non-linearly. So if we try to cover it with a linear model, then we can clearly see that it hardly covers any data point. On the other hand, a curve is suitable to cover most of the data points, which is of the Polynomial model.
@@ -48,13 +52,11 @@ Predicting the output.
 
 ## Result
 
-Linear Regression prediction with the salary 330,378.78.
-Polynomial Regression with the salary of 158,862.45.
+Linear Regression prediction with the salary 330,378.78. 
+Polynomial Regression with the salary of 158,862.45. 
 ![](poly.png)
-
-
-![](linearregression.png)
+![](linear regression.png)
 
 ## Conclusion
-Linear Regression prediction is less precise than Polynomial Regression
+Linear Regression prediction is less precise than Polynomial Regression 
 
